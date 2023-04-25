@@ -14,3 +14,5 @@ In summary, this project will seek to ensure that information is processed effic
 
 ## This repository contains the solution to the challenge imposed by the training partner along with the MA2006B subject.
 ## (Credits belong to their authors, this work is non-profit)
+## Upload your private keys in this file:
+   reto/centro_de_control/receiving-hashes-credentials.json
